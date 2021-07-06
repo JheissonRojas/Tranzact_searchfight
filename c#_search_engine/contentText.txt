@@ -1,0 +1,547 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - .net",
+        "totalResults": "2280000",
+        "searchTerms": ".net",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f528620106e550893"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - .net",
+        "totalResults": "2280000",
+        "searchTerms": ".net",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f528620106e550893"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.518394,
+    "formattedSearchTime": "0.52",
+    "totalResults": "2280000",
+    "formattedTotalResults": "2,280,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "SORBS (Spam and Open-Relay Blocking System)",
+      "htmlTitle": "SORBS (Spam and Open-Relay Blocking System)",
+      "link": "http://www.google.com/appserve/mkt/p/AFnwnKUDC6Rp7ov19Pb24Jbn2jR1EdnaNuw87DmS-Bdusn3a22AimwY_RGGKhV_Sy91lpxPtP4C8PSga",
+      "displayLink": "www.google.com",
+      "snippet": "The tools are currently in early access. If you are interested in these tools, please \nclick here: Net Manager. If anyone would like to contribute to SORBS or has any ...",
+      "htmlSnippet": "The tools are currently in early access. If you are interested in these tools, please \u003cbr\u003e\nclick here: \u003cb\u003eNet\u003c/b\u003e Manager. If anyone would like to contribute to SORBS or has any&nbsp;...",
+      "cacheId": "63p2XrFOu2wJ",
+      "formattedUrl": "www.google.com/.../AFnwnKUDC6Rp7ov19Pb24Jbn2jR1EdnaNuw87DmS- Bdusn3a22AimwY_RGGKhV_Sy91lpxPtP4C8PSga",
+      "htmlFormattedUrl": "www.google.com/.../AFnwnKUDC6Rp7ov19Pb24Jbn2jR1EdnaNuw87DmS- Bdusn3a22AimwY_RGGKhV_Sy91lpxPtP4C8PSga",
+      "pagemap": {
+        "xfn": [
+          {}
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nets vs. Clippers odds, line, spread: 2021 NBA picks, Feb. 2 ...",
+      "htmlTitle": "\u003cb\u003eNets\u003c/b\u003e vs. Clippers odds, line, spread: 2021 NBA picks, Feb. 2 ...",
+      "link": "https://www.google.com/appserve/mkt/p/AD-FnExRLQWtPJnVMREt80hRHQXiaBOGP5GCzmrtu0Ih_Ag9_OKEFjSo6AD8Qm6gK3fM2gnh9gWBEFBn1wXgVjz3YqIfqJCGCQF-Xr_ijk-m-5w1W3xpD19PanbEuJcicUgz47d4xmv4xQaTPXmaupIldxsIYASIwQsVnZXHBuHPtOFfd_09t0lVR_ACyzTLKR0oTFeGk4-HDWALmrLr0Q_DotDRXhh6Dxlw1BplnGToeDOrmMmEeWs",
+      "displayLink": "www.google.com",
+      "snippet": "Feb 2, 2021 ... Nets odds from William Hill Sportsbook list Los Angeles as a 1.5-point road \nfavorite. The over-under for total points is set at 241.5, down two ...",
+      "htmlSnippet": "Feb 2, 2021 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNets\u003c/b\u003e odds from William Hill Sportsbook list Los Angeles as a 1.5-point road \u003cbr\u003e\nfavorite. The over-under for total points is set at 241.5, down two&nbsp;...",
+      "cacheId": "7sZLhJIS260J",
+      "formattedUrl": "https://www.google.com/.../AD- FnExRLQWtPJnVMREt80hRHQXiaBOGP5GCzmrtu0Ih_Ag9_ ...",
+      "htmlFormattedUrl": "https://www.google.com/.../AD- FnExRLQWtPJnVMREt80hRHQXiaBOGP5GCzmrtu0Ih_Ag9_ ...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7h4PBkTkXaTXJOpJW9PpcTIYY0IkKFnM-DGcS5ZcKvFKDtEWrRnbP66s2",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "1200",
+            "url": "https://sportshub.cbsistatic.com/i/r/2020/12/17/95d9c3b9-7a1b-42ad-ad88-427fff50428f/thumbnail/1200x675/9ee0b3aa2143051ebd6f0b440a85c75c/kevindurant-121720.jpg",
+            "height": "675"
+          },
+          {
+            "width": "289",
+            "url": "https://sportsfly.cbsistatic.com/fly-317/bundles/sportsmediacss/images/core/cbssports-logo-60x289.png",
+            "height": "60"
+          }
+        ],
+        "person": [
+          {
+            "name": "CBS Sports Staff"
+          }
+        ],
+        "speakablespecification": [
+          {
+            "cssselector": ".article-headline"
+          }
+        ],
+        "organization": [
+          {
+            "name": "CBS Sports"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://sportsfly.cbsistatic.com/fly-317/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "CBSSports.com",
+            "msapplication-tooltip": "CBSSports.com features live scoring and news for NFL football, MLB baseball, NBA basketball, NHL hockey, college basketball and football. CBSSports.com is also your source for fantasy sports news.",
+            "og:description": "The SportsLine Projection Model simulated Clippers vs. Nets 10,000 times",
+            "twitter:creator": "@cbssports",
+            "article:publisher": "https://www.facebook.com/cbssports",
+            "twitter:image": "https://sportsfly.cbsistatic.com/fly-317/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+            "twitter:site": "@cbssports",
+            "fb:admins": "100002967552623",
+            "article:content_tier": "free",
+            "twitter:account_id": "14885860",
+            "msapplication-starturl": "https://www.cbssports.com/",
+            "og:type": "article",
+            "twitter:title": "Nets vs. Clippers odds, line, spread: 2021 NBA picks, Feb. 2 predictions from model on 73-44 roll - CBSSports.com",
+            "msapplication-window": "width=1024;height=768",
+            "handheldfriendly": "True",
+            "og:title": "Nets vs. Clippers odds, line, spread: 2021 NBA picks, Feb. 2 predictions from model on 73-44 roll",
+            "google": "notranslate",
+            "fb:pages": "25902406772",
+            "msapplication-navbutton-color": "#1483b2",
+            "fb:app_id": "297742330311988",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+            "twitter:description": "The SportsLine Projection Model simulated Clippers vs. Nets 10,000 times",
+            "apple-mobile-web-app-capable": "yes",
+            "mobileoptimized": "320",
+            "og:url": "https://www.cbssports.com/nba/news/nets-vs-clippers-odds-line-spread-2021-nba-picks-feb-2-predictions-from-model-on-73-44-roll/",
+            "google-play-app": "com.handmark.sportcaster",
+            "article:opinion": "false",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://sportsfly.cbsistatic.com/fly-317/bundles/sportsmediacss/images/fantasy/default-article-image-large.png"
+          }
+        ],
+        "article": [
+          {
+            "articlebody": "The Brooklyn Nets welcome the Los Angeles Clippers to Barclays Center for a key cross-conference matchup between contenders on Tuesday. Brooklyn had a four-game winning streak snapped in its...",
+            "keywords": "NBA",
+            "description": "The SportsLine Projection Model simulated Clippers vs. Nets 10,000 times",
+            "headline": "Nets vs. Clippers odds, line, spread: 2021 NBA picks, Feb. 2 predictions from model on 73-44 roll",
+            "url": "https://www.cbssports.com/nba/news/nets-vs-clippers-odds-line-spread-2021-nba-picks-feb-2-predictions-from-model-on-73-44-roll/",
+            "datepublished": "2021-02-02 21:25:32",
+            "mainentityofpage": "https://www.cbssports.com//nba/news/nets-vs-clippers-odds-line-spread-2021-nba-picks-feb-2-predictions-from-model-on-73-44-roll/",
+            "thumbnailurl": "https://sportshub.cbsistatic.com/i/r/2020/12/17/95d9c3b9-7a1b-42ad-ad88-427fff50428f/thumbnail/1200x675/9ee0b3aa2143051ebd6f0b440a85c75c/kevindurant-121720.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cloudflare Inc (NET : NYSE) Stock Price & News - Google Finance",
+      "htmlTitle": "Cloudflare Inc (\u003cb\u003eNET\u003c/b\u003e : NYSE) Stock Price &amp; News - Google Finance",
+      "link": "https://www.google.com/finance/quote/NET:NYSE",
+      "displayLink": "www.google.com",
+      "snippet": "3 days ago ... Get the latest Cloudflare Inc (NET) real-time quote, historical performance, charts, \nand other financial information to help you make more ...",
+      "htmlSnippet": "3 days ago \u003cb\u003e...\u003c/b\u003e Get the latest Cloudflare Inc (\u003cb\u003eNET\u003c/b\u003e) real-time quote, historical performance, charts, \u003cbr\u003e\nand other financial information to help you make more&nbsp;...",
+      "cacheId": "HSsN2vnji_oJ",
+      "formattedUrl": "https://www.google.com/finance/quote/NET:NYSE",
+      "htmlFormattedUrl": "https://www.google.com/finance/quote/\u003cb\u003eNET\u003c/b\u003e:NYSE",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQldTHAz14MiWY-2bpICyONYLUjcoY7hJc8AQj1tmfmhHDQ43UNmSVu_8",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Google Finance",
+            "og:image": "https://ssl.gstatic.com/finance/favicon/finance_770x402.png",
+            "theme-color": "#ffffff",
+            "og:type": "website",
+            "og:image:width": "770",
+            "twitter:card": "summary",
+            "twitter:title": "Cloudflare Inc (NET : NYSE) Stock Price & News - Google Finance",
+            "apple-mobile-web-app-title": "Google Finance",
+            "og:title": "Cloudflare Inc (NET : NYSE) Stock Price & News - Google Finance",
+            "og:image:height": "402",
+            "og:description": "Get the latest Cloudflare Inc (NET) real-time quote, historical performance, charts, and other financial information to help you make more informed trading and investment decisions.",
+            "twitter:image": "https://ssl.gstatic.com/finance/favicon/finance_496x496.png",
+            "referrer": "origin",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "msapplication-tap-highlight": "no",
+            "twitter:site": "@google",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Get the latest Cloudflare Inc (NET) real-time quote, historical performance, charts, and other financial information to help you make more informed trading and investment decisions.",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.google.com/finance/quote/NET:NYSE"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://ssl.gstatic.com/finance/favicon/finance_770x402.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Net date quarter",
+      "htmlTitle": "\u003cb\u003eNet\u003c/b\u003e date quarter",
+      "link": "https://www.google.com/mymaps/viewer?mid=1PGRaCOuxdjMrjLFXjQ1dzExdfTc&hl=en_US",
+      "displayLink": "www.google.com",
+      "snippet": "http://westritiro.briz-motors.ru/?gdat&keyword=net+date+quarter .net date quarter \nFor more information about .net date quarter a single format specifier, see later ...",
+      "htmlSnippet": "http://westritiro.briz-motors.ru/?gdat&amp;keyword=\u003cb\u003enet\u003c/b\u003e+date+quarter .\u003cb\u003enet\u003c/b\u003e date quarter \u003cbr\u003e\nFor more information about .\u003cb\u003enet\u003c/b\u003e date quarter a single format specifier, see later&nbsp;...",
+      "cacheId": "Sd7hOSkFAKoJ",
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8MrKhyE2DPkfFNTcwuy5CqILf-9ZKOmewNpbqEyfa-FklNWxxZeVwkto",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "website": [
+          {
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1PGRaCOuxdjMrjLFXjQ1dzExdfTc&hl=en_US",
+            "name": "❤️Net date quarter",
+            "description": "❤️ http://westritiro.briz-motors.ru/?gdat&keyword=net+date+quarter .net date quarter For more information about .net date quarter a single format specifier, see later in this topic. The...",
+            "url": "https://www.google.com/maps/d/viewer?mid=1PGRaCOuxdjMrjLFXjQ1dzExdfTc&hl=en_US"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1PGRaCOuxdjMrjLFXjQ1dzExdfTc&hl=en_US",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "❤️Net date quarter",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "twitter:description": "❤️ http://westritiro.briz-motors.ru/?gdat&keyword=net+date+quarter\n\n\n\n\n\n\n\n\n\n\n\n.net date quarter\n\nFor more information about .net date quarter a single format specifier, see later in this topic. The appropriate localized date separator is retrieved from the property of the current or specified culture. I thought that if there was one who knows a lot of dates it was you. The escape character signifies that the following character is a character literal that should be included in the result string unchanged. The following table lists the object properties that control the formatting of the returned string. I am getting an error, however on the BeginDate for the quarter. Defines the localized day names that can appear in the result string. NET application connecting to an Oracle database. The precision of date and time values depends on the resolution of the system clock. End Select But you just know there has to be a better way! I also got an error in the EndDate.\n\nBut it also specifies only one format at a ",
+            "og:title": "❤️Net date quarter",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1PGRaCOuxdjMrjLFXjQ1dzExdfTc&hl=en_US",
+            "og:description": "❤️ http://westritiro.briz-motors.ru/?gdat&keyword=net+date+quarter\n\n\n\n\n\n\n\n\n\n\n\n.net date quarter\n\nFor more information about .net date quarter a single format specifier, see later in this topic. The appropriate localized date separator is retrieved from the property of the current or specified culture. I thought that if there was one who knows a lot of dates it was you. The escape character signifies that the following character is a character literal that should be included in the result string unchanged. The following table lists the object properties that control the formatting of the returned string. I am getting an error, however on the BeginDate for the quarter. Defines the localized day names that can appear in the result string. NET application connecting to an Oracle database. The precision of date and time values depends on the resolution of the system clock. End Select But you just know there has to be a better way! I also got an error in the EndDate.\n\nBut it also specifies only one format at a ",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1PGRaCOuxdjMrjLFXjQ1dzExdfTc&hl=en_US"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://khms0.googleapis.com/kh?v=747&hl=en&x=0&y=0&z=0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Net date format",
+      "htmlTitle": "\u003cb\u003eNet\u003c/b\u003e date format",
+      "link": "https://www.google.com/mymaps/viewer?usp=sharing&mid=1Oqit3CDjTpjbt20fw7NG7KJsJVbvJXMo",
+      "displayLink": "www.google.com",
+      "snippet": "http://adinalril.akakqip.ru/?gdat&keyword=net+date+format .net date format You \ncan specify multiple commas in a number format model. Local time is ...",
+      "htmlSnippet": "http://adinalril.akakqip.ru/?gdat&amp;keyword=\u003cb\u003enet\u003c/b\u003e+date+format .\u003cb\u003enet\u003c/b\u003e date format You \u003cbr\u003e\ncan specify multiple commas in a number format model. Local time is&nbsp;...",
+      "cacheId": "YZWI6_sHLbYJ",
+      "formattedUrl": "https://www.google.com/mymaps/viewer?usp=sharing&mid...",
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?usp=sharing&amp;mid...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD-7yuHMJ8rsGF6SsbEGbs_c9JzNCxoZ0UULZz-DXJaON1D6dnX5Utut0",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "website": [
+          {
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1Oqit3CDjTpjbt20fw7NG7KJsJVbvJXMo",
+            "name": "❤️Net date format",
+            "description": "❤️ http://adinalril.akakqip.ru/?gdat&keyword=net+date+format .net date format You can specify multiple commas in a number format model. Local time is appropriate for display in user interfaces...",
+            "url": "https://www.google.com/maps/d/viewer?mid=1Oqit3CDjTpjbt20fw7NG7KJsJVbvJXMo"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1Oqit3CDjTpjbt20fw7NG7KJsJVbvJXMo",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "❤️Net date format",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "twitter:description": "❤️ http://adinalril.akakqip.ru/?gdat&keyword=net+date+format\n\n\n\n\n\n\n\n\n\n\n\n.net date format\n\nYou can specify multiple commas in a number format model. Local time is appropriate for display in user interfaces of desktop applications. This conversion is not supported. ReadKey End Sub End Module When the above code is compiled and executed, it .net date format the following result: Current Time: 11 :05 :32 AM Current Date: Module dateNtime Sub Main Console. Restriction: You can specify this format only with the TS element, separated by white space. See Also: Additional discussion on in the RRRR Yes Round year. AddDays 1 If Len DateTimePicker1. Uppercase Letters in Date Format Elements Capitalization in a spelled-out word, abbreviation, or Roman numeral follows capitalization in the corresponding format element. Use the numbers 1 to 9 after FF to specify the number of digits in the fractional second portion of the datetime value returned. For example, Sunday, December 16, 2012. By July 22, 2005, 12:00 AM PST Str",
+            "og:title": "❤️Net date format",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1Oqit3CDjTpjbt20fw7NG7KJsJVbvJXMo",
+            "og:description": "❤️ http://adinalril.akakqip.ru/?gdat&keyword=net+date+format\n\n\n\n\n\n\n\n\n\n\n\n.net date format\n\nYou can specify multiple commas in a number format model. Local time is appropriate for display in user interfaces of desktop applications. This conversion is not supported. ReadKey End Sub End Module When the above code is compiled and executed, it .net date format the following result: Current Time: 11 :05 :32 AM Current Date: Module dateNtime Sub Main Console. Restriction: You can specify this format only with the TS element, separated by white space. See Also: Additional discussion on in the RRRR Yes Round year. AddDays 1 If Len DateTimePicker1. Uppercase Letters in Date Format Elements Capitalization in a spelled-out word, abbreviation, or Roman numeral follows capitalization in the corresponding format element. Use the numbers 1 to 9 after FF to specify the number of digits in the fractional second portion of the datetime value returned. For example, Sunday, December 16, 2012. By July 22, 2005, 12:00 AM PST Str",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1Oqit3CDjTpjbt20fw7NG7KJsJVbvJXMo"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://khms0.googleapis.com/kh?v=748&hl=en&x=0&y=0&z=0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Net get datetime difference",
+      "htmlTitle": "\u003cb\u003eNet\u003c/b\u003e get datetime difference",
+      "link": "https://www.google.com/mymaps/viewer?usp=sharing&mid=1yJoeuOiEvWSHmGVeiDQyPo-TMJisgef5",
+      "displayLink": "www.google.com",
+      "snippet": "http://despbercknowmens.dietaforlove.ru/?gdat&keyword=net+get+datetime+\ndifference .net get datetime difference By continuing to browse this site, you \nagree ...",
+      "htmlSnippet": "http://despbercknowmens.dietaforlove.ru/?gdat&amp;keyword=\u003cb\u003enet\u003c/b\u003e+get+datetime+\u003cbr\u003e\ndifference .\u003cb\u003enet\u003c/b\u003e get datetime difference By continuing to browse this site, you \u003cbr\u003e\nagree&nbsp;...",
+      "cacheId": "BpiL6biDkm0J",
+      "formattedUrl": "https://www.google.com/mymaps/viewer?usp=sharing&mid...",
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?usp=sharing&amp;mid...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD-7yuHMJ8rsGF6SsbEGbs_c9JzNCxoZ0UULZz-DXJaON1D6dnX5Utut0",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "website": [
+          {
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1yJoeuOiEvWSHmGVeiDQyPo-TMJisgef5",
+            "name": "❤️Net get datetime difference",
+            "description": "❤️ http://despbercknowmens.dietaforlove.ru/?gdat&keyword=net+get+datetime+difference .net get datetime difference By continuing to browse this site, you agree to this use. ToString Obviously,...",
+            "url": "https://www.google.com/maps/d/viewer?mid=1yJoeuOiEvWSHmGVeiDQyPo-TMJisgef5"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1yJoeuOiEvWSHmGVeiDQyPo-TMJisgef5",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "❤️Net get datetime difference",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "twitter:description": "❤️ http://despbercknowmens.dietaforlove.ru/?gdat&keyword=net+get+datetime+difference\n\n\n\n\n\n\n\n\n\n\n\n.net get datetime difference\n\nBy continuing to browse this site, you agree to this use. ToString Obviously, to get the number of months requires .net get datetime difference a slight modification. I tend to use DateTime as that better describes what it is, a date and a time. It also supports the serialization and deserialization of time zone information. There are also a couple of other obvious bugs in the code that I posted. It was also effectively resolved a year ago. For a specific list of operations and proper time-zone contexts, see the table in the section. This gets me the number of days putting in consideration the years with fraction days years with 366 days. Both words Date and DateTime have many meanings.\n\nHowever, it are just words. The harder-to-manage case is the ambiguity case associated with parsing user input that occurs during this magical hour in the spring and fall. Caveat: If you are going ",
+            "og:title": "❤️Net get datetime difference",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1yJoeuOiEvWSHmGVeiDQyPo-TMJisgef5",
+            "og:description": "❤️ http://despbercknowmens.dietaforlove.ru/?gdat&keyword=net+get+datetime+difference\n\n\n\n\n\n\n\n\n\n\n\n.net get datetime difference\n\nBy continuing to browse this site, you agree to this use. ToString Obviously, to get the number of months requires .net get datetime difference a slight modification. I tend to use DateTime as that better describes what it is, a date and a time. It also supports the serialization and deserialization of time zone information. There are also a couple of other obvious bugs in the code that I posted. It was also effectively resolved a year ago. For a specific list of operations and proper time-zone contexts, see the table in the section. This gets me the number of days putting in consideration the years with fraction days years with 366 days. Both words Date and DateTime have many meanings.\n\nHowever, it are just words. The harder-to-manage case is the ambiguity case associated with parsing user input that occurs during this magical hour in the spring and fall. Caveat: If you are going ",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1yJoeuOiEvWSHmGVeiDQyPo-TMJisgef5"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://khms0.googleapis.com/kh?v=748&hl=en&x=0&y=0&z=0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Date net format",
+      "htmlTitle": "Date \u003cb\u003enet\u003c/b\u003e format",
+      "link": "https://www.google.com/mymaps/viewer?usp=sharing&mid=198Ssgc9m2KEoyelUwpQfjCmTQ-ozzk2l",
+      "displayLink": "www.google.com",
+      "snippet": "http://suilintheirhym.dietaforlove.ru/?gdat&keyword=date+net+format Date .net \nformat The offset is always displayed with a leading sign. Property Description ...",
+      "htmlSnippet": "http://suilintheirhym.dietaforlove.ru/?gdat&amp;keyword=date+\u003cb\u003enet\u003c/b\u003e+format Date .\u003cb\u003enet\u003c/b\u003e \u003cbr\u003e\nformat The offset is always displayed with a leading sign. Property Description&nbsp;...",
+      "cacheId": "KRdXft6EOiYJ",
+      "formattedUrl": "https://www.google.com/mymaps/viewer?usp=sharing&mid...ozzk2l",
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?usp=sharing&amp;mid...ozzk2l",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD-7yuHMJ8rsGF6SsbEGbs_c9JzNCxoZ0UULZz-DXJaON1D6dnX5Utut0",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "website": [
+          {
+            "image": "https://www.google.com/maps/d/thumbnail?mid=198Ssgc9m2KEoyelUwpQfjCmTQ-ozzk2l",
+            "name": "❤️Date net format",
+            "description": "❤️ http://suilintheirhym.dietaforlove.ru/?gdat&keyword=date+net+format Date .net format The offset is always displayed with a leading sign. Property Description Defines the format of the...",
+            "url": "https://www.google.com/maps/d/viewer?mid=198Ssgc9m2KEoyelUwpQfjCmTQ-ozzk2l"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=198Ssgc9m2KEoyelUwpQfjCmTQ-ozzk2l",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "❤️Date net format",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "twitter:description": "❤️ http://suilintheirhym.dietaforlove.ru/?gdat&keyword=date+net+format\n\n\n\n\n\n\n\n\n\n\n\nDate .net format\n\nThe offset is always displayed with a leading sign. Property Description Defines the format of the date component of the result string. They produce string representations of date and time values that are intended to be identical across cultures. Property Description Defines the overall format of the result string. Thanks Raj Says: Thanks a lot for very nice and superb article. I have tried with DateTime. It consists of 52 or 53 full weeks. This provision was removed in ISO 8601:2004.\n\nThanks Raj Says: Thanks a lot for very nice and superb article. HH - 2 digit hour in military time 00 to 23 adds a leading zero if necessary. It is not possible to make VB.\n\nA solidus is a and not allowed in a filename in common operating systems. I am always messing up with Date Formatting and this will be a great reverence page for me in the future. The formatting operation ignores this specifier if the date to be formatted",
+            "og:title": "❤️Date net format",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=198Ssgc9m2KEoyelUwpQfjCmTQ-ozzk2l",
+            "og:description": "❤️ http://suilintheirhym.dietaforlove.ru/?gdat&keyword=date+net+format\n\n\n\n\n\n\n\n\n\n\n\nDate .net format\n\nThe offset is always displayed with a leading sign. Property Description Defines the format of the date component of the result string. They produce string representations of date and time values that are intended to be identical across cultures. Property Description Defines the overall format of the result string. Thanks Raj Says: Thanks a lot for very nice and superb article. I have tried with DateTime. It consists of 52 or 53 full weeks. This provision was removed in ISO 8601:2004.\n\nThanks Raj Says: Thanks a lot for very nice and superb article. HH - 2 digit hour in military time 00 to 23 adds a leading zero if necessary. It is not possible to make VB.\n\nA solidus is a and not allowed in a filename in common operating systems. I am always messing up with Date Formatting and this will be a great reverence page for me in the future. The formatting operation ignores this specifier if the date to be formatted",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=198Ssgc9m2KEoyelUwpQfjCmTQ-ozzk2l"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://khms0.googleapis.com/kh?v=748&hl=en&x=0&y=0&z=0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Net long date string",
+      "htmlTitle": "\u003cb\u003eNet\u003c/b\u003e long date string",
+      "link": "https://www.google.com/mymaps/viewer?mid=1UyD0QRCAawd7RWAuof4K9nEafoTPxcz1&hl=en_US",
+      "displayLink": "www.google.com",
+      "snippet": "http://siopropinin.akakqip.ru/?gdat&keyword=net+long+date+string .net long date \nstring NET Framework defines numerous options for formatting a string value ...",
+      "htmlSnippet": "http://siopropinin.akakqip.ru/?gdat&amp;keyword=\u003cb\u003enet\u003c/b\u003e+long+date+string .\u003cb\u003enet\u003c/b\u003e long date \u003cbr\u003e\nstring \u003cb\u003eNET\u003c/b\u003e Framework defines numerous options for formatting a string value&nbsp;...",
+      "cacheId": "3BebWEYMT1gJ",
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD-7yuHMJ8rsGF6SsbEGbs_c9JzNCxoZ0UULZz-DXJaON1D6dnX5Utut0",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "website": [
+          {
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1UyD0QRCAawd7RWAuof4K9nEafoTPxcz1&hl=en_US",
+            "name": "❤️Net long date string",
+            "description": "❤️ http://siopropinin.akakqip.ru/?gdat&keyword=net+long+date+string .net long date string NET Framework defines numerous options for formatting a string value according to the desired type....",
+            "url": "https://www.google.com/maps/d/viewer?mid=1UyD0QRCAawd7RWAuof4K9nEafoTPxcz1&hl=en_US"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1UyD0QRCAawd7RWAuof4K9nEafoTPxcz1&hl=en_US",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "❤️Net long date string",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "twitter:description": "❤️ http://siopropinin.akakqip.ru/?gdat&keyword=net+long+date+string\n\n\n\n\n\n\n\n\n\n\n\n.net long date string\n\nNET Framework defines numerous options for formatting a string value according to the desired type. M or m Displays the month and the day of a date value. Defines the localized month names that can appear in the result string. ParseExact methods for converting a string-based date to a System. Split to split based on matching patterns. E or e Displays the number in exponential notation. It is a third type of culture that is culture-insensitive. CultureInfo As String Return source.\n\nBrowse other questions tagged or. The default value of Date is 0:00:00 midnight on January 1, 0001. CultureInfo As String Return source. Defines the string that separates the year, month, and day components of a date.\n\nVisit the on docs. In most of my projects, I make it a constant and then refer to the constant value in my code. The following table lists some of the commonly used methods of the DateAndTime class: For more infor",
+            "og:title": "❤️Net long date string",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1UyD0QRCAawd7RWAuof4K9nEafoTPxcz1&hl=en_US",
+            "og:description": "❤️ http://siopropinin.akakqip.ru/?gdat&keyword=net+long+date+string\n\n\n\n\n\n\n\n\n\n\n\n.net long date string\n\nNET Framework defines numerous options for formatting a string value according to the desired type. M or m Displays the month and the day of a date value. Defines the localized month names that can appear in the result string. ParseExact methods for converting a string-based date to a System. Split to split based on matching patterns. E or e Displays the number in exponential notation. It is a third type of culture that is culture-insensitive. CultureInfo As String Return source.\n\nBrowse other questions tagged or. The default value of Date is 0:00:00 midnight on January 1, 0001. CultureInfo As String Return source. Defines the string that separates the year, month, and day components of a date.\n\nVisit the on docs. In most of my projects, I make it a constant and then refer to the constant value in my code. The following table lists some of the commonly used methods of the DateAndTime class: For more infor",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1UyD0QRCAawd7RWAuof4K9nEafoTPxcz1&hl=en_US"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://khms0.googleapis.com/kh?v=748&hl=en&x=0&y=0&z=0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "reCAPTCHA",
+      "htmlTitle": "reCAPTCHA",
+      "link": "https://www.google.com/recaptcha/about/",
+      "displayLink": "www.google.com",
+      "snippet": "reCAPTCHA protects your website from fraud and abuse. reCAPTCHA uses an \nadvanced risk analysis engine and adaptive challenges to keep malicious \nsoftware ...",
+      "htmlSnippet": "reCAPTCHA protects your website from fraud and abuse. reCAPTCHA uses an \u003cbr\u003e\nadvanced risk analysis engine and adaptive challenges to keep malicious \u003cbr\u003e\nsoftware&nbsp;...",
+      "cacheId": "GeNGoUMaktcJ",
+      "formattedUrl": "https://www.google.com/recaptcha/about/",
+      "htmlFormattedUrl": "https://www.google.com/recaptcha/about/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpIqGW9J4rXVaxxKrpWwOl4nWhxds5FI-HE99EHRV4V7zp_f3tl-eIcSw",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "/recaptcha/about/images/reCAPTCHA-enterprise.png",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "reCAPTCHA",
+            "og:site_name": "reCAPTCHA",
+            "og:title": "reCAPTCHA",
+            "og:description": "reCAPTCHA is a security service that protects your websites from fraud and abuse.",
+            "twitter:creator": "@Google",
+            "twitter:image": "/recaptcha/about/images/reCAPTCHA-enterprise.png",
+            "referrer": "no-referrer",
+            "twitter:site": "@Google",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "reCAPTCHA is a security service that protects your websites from fraud and abuse.",
+            "og:locale": "en",
+            "og:url": "https://www.google.com/recaptcha/about/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.google.com/recaptcha/about/images/reCAPTCHA-enterprise.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Datetime net format string",
+      "htmlTitle": "Datetime \u003cb\u003enet\u003c/b\u003e format string",
+      "link": "https://www.google.com/mymaps/viewer?mid=1CPcndeGZFCqzZtzrubqX3VfRbchIN3hk&hl=en_US",
+      "displayLink": "www.google.com",
+      "snippet": "http://mangperssatu.bezil.ru/?gdat&keyword=datetime+net+format+string \nDatetime .net format string To change the date separator for all dates for a culture\n, ...",
+      "htmlSnippet": "http://mangperssatu.bezil.ru/?gdat&amp;keyword=datetime+\u003cb\u003enet\u003c/b\u003e+format+string \u003cbr\u003e\nDatetime .\u003cb\u003enet\u003c/b\u003e format string To change the date separator for all dates for a culture\u003cbr\u003e\n,&nbsp;...",
+      "cacheId": "YXwadDzIbUEJ",
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en_US",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8MrKhyE2DPkfFNTcwuy5CqILf-9ZKOmewNpbqEyfa-FklNWxxZeVwkto",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "website": [
+          {
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1CPcndeGZFCqzZtzrubqX3VfRbchIN3hk&hl=en_US",
+            "name": "❤️Datetime net format string",
+            "description": "❤️ http://mangperssatu.bezil.ru/?gdat&keyword=datetime+net+format+string Datetime .net format string To change the date separator for all dates for a culture, either change the value of...",
+            "url": "https://www.google.com/maps/d/viewer?mid=1CPcndeGZFCqzZtzrubqX3VfRbchIN3hk&hl=en_US"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1CPcndeGZFCqzZtzrubqX3VfRbchIN3hk&hl=en_US",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "❤️Datetime net format string",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "twitter:description": "❤️ http://mangperssatu.bezil.ru/?gdat&keyword=datetime+net+format+string\n\n\n\n\n\n\n\n\n\n\n\nDatetime .net format string\n\nTo change the date separator for all dates for a culture, either change the value of the property of the current culture, or instantiate a object, assign the character to its property, and call an overload of the formatting method that includes an parameter. The pattern reflects a defined standard, and the property is read-only. Defines the localized day names that can appear in the result string. The following table provides information on these four standard date and time format strings. The following table lists the object properties that control the formatting of the returned string. However, trailing zeros or three zero digits are not displayed. If they do not recognize the character as a valid format specifier, they throw a. I would recomend DateTime. If the two-digit year has fewer than two significant digits, the number is padded with leading zeros to produce two digits. For more inform",
+            "og:title": "❤️Datetime net format string",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1CPcndeGZFCqzZtzrubqX3VfRbchIN3hk&hl=en_US",
+            "og:description": "❤️ http://mangperssatu.bezil.ru/?gdat&keyword=datetime+net+format+string\n\n\n\n\n\n\n\n\n\n\n\nDatetime .net format string\n\nTo change the date separator for all dates for a culture, either change the value of the property of the current culture, or instantiate a object, assign the character to its property, and call an overload of the formatting method that includes an parameter. The pattern reflects a defined standard, and the property is read-only. Defines the localized day names that can appear in the result string. The following table provides information on these four standard date and time format strings. The following table lists the object properties that control the formatting of the returned string. However, trailing zeros or three zero digits are not displayed. If they do not recognize the character as a valid format specifier, they throw a. I would recomend DateTime. If the two-digit year has fewer than two significant digits, the number is padded with leading zeros to produce two digits. For more inform",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1CPcndeGZFCqzZtzrubqX3VfRbchIN3hk&hl=en_US"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://khms0.googleapis.com/kh?v=747&hl=en&x=0&y=0&z=0"
+          }
+        ]
+      }
+    }
+  ]
+}

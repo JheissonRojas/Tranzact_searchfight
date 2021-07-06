@@ -1,0 +1,11 @@
+C:\Users\Acer\OneDrive\Documentos\Practice_Test\c#_search_engine\bin\Debug\netcoreapp2.2\c#_search_engine.deps.json
+C:\Users\Acer\OneDrive\Documentos\Practice_Test\c#_search_engine\bin\Debug\netcoreapp2.2\c#_search_engine.runtimeconfig.json
+C:\Users\Acer\OneDrive\Documentos\Practice_Test\c#_search_engine\bin\Debug\netcoreapp2.2\c#_search_engine.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Documentos\Practice_Test\c#_search_engine\bin\Debug\netcoreapp2.2\c#_search_engine.dll
+C:\Users\Acer\OneDrive\Documentos\Practice_Test\c#_search_engine\bin\Debug\netcoreapp2.2\c#_search_engine.pdb
+C:\Users\Acer\OneDrive\Documentos\Practice_Test\c#_search_engine\obj\Debug\netcoreapp2.2\c#_search_engine.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Documentos\Practice_Test\c#_search_engine\obj\Debug\netcoreapp2.2\c#_search_engine.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documentos\Practice_Test\c#_search_engine\obj\Debug\netcoreapp2.2\c#_search_engine.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Documentos\Practice_Test\c#_search_engine\obj\Debug\netcoreapp2.2\c#_search_engine.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Documentos\Practice_Test\c#_search_engine\obj\Debug\netcoreapp2.2\c#_search_engine.dll
+C:\Users\Acer\OneDrive\Documentos\Practice_Test\c#_search_engine\obj\Debug\netcoreapp2.2\c#_search_engine.pdb
